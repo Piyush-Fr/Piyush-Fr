@@ -1,7 +1,7 @@
 #  About Me:
 I'm currently Learning App Development<br>Interested in ML & Multi Platform Development
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31ko4fqh6veo4mqvl5jeo6zvcsiy&count={2})
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31ko4fqh6veo4mqvl5jeo6zvcsiy&count=2)
 
 
 ##  Socials:
