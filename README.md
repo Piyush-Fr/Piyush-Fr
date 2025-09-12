@@ -17,7 +17,7 @@ I'm currently Learning App Development<br>Interested in ML & Multi Platform Deve
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,firebase,figma,nodejs,dart,git,kotlin" />
+    <img src="https://skillicons.dev/icons?i=flutter,firebase,hive,figma,nodejs,dart,git,kotlin" />
   </a>
 </p>
 
