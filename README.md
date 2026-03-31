@@ -1,5 +1,5 @@
 #  About Me:
-I'm currently Learning App Development<br>Interested in ML & Multi Platform Development
+I'm currently Learning App Development<br>Interested in ML & Flutter Development
 
 
 
