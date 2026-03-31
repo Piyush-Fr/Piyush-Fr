@@ -28,6 +28,13 @@ I'm currently Learning App Development<br>Interested in ML & Flutter Development
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Piyush-Fr&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+<br>
+<div align="center">
+  <a href="https://github.com/Piyush-Fr">
+    <img width="70%" src="https://github-readme-stats-fast.vercel.app/api/streak/?username=Piyush-Fr&show_icons=true&theme=dark&hide_border=true&background=000000&ring=94b4a4&fire=94b4a4&currStreakLabel=94b4a4"/>
+  </a>
+</div>
+<br>
 
 
 ---
