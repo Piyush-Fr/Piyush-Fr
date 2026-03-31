@@ -22,7 +22,12 @@ I'm currently Learning App Development<br>Interested in ML & Multi Platform Deve
 </p>
 
 #  GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Piyush-Fr&theme=date_night&hide_border=false&include_all_commits=true&count_private=true)<br/>
+<p align="center">
+<a href="https://github.com/Piyush-Fr">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Piyush-Fr&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Piyush-Fr&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 ![](https://nirzak-streak-stats.vercel.app/?user=Piyush-Fr&theme=date_night&hide_border=false)<br/>
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31ko4fqh6veo4mqvl5jeo6zvcsiy&count=4)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Piyush-Fr&theme=date_night&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
