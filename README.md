@@ -8,6 +8,10 @@
   I'm currently Learning App Development. <br> Interested in ML & Flutter Development. <!--[cite: 1] -->
 </h3>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGZydGgybm9jcm5rdDg1azd4ZGJ4YXdyNGN4Ynh6Zjhyb3dsNWQzayZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/x0EASzgqjpvVrYjzvk/giphy.gif" alt="Bio GIF"/>
+</div>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/piyushthakur01">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/>
