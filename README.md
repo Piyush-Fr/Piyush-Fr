@@ -49,20 +49,14 @@
 ---
 
 ## GitHub Stats
-<p align="center">
-  <a href="https://github.com/Piyush-Fr">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Piyush-Fr&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="GitHub Stats"/> <!--[cite: 1] -->
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Piyush-Fr&layout=compact&langs_count=8&theme=algolia" alt="Top Languages"/> <!--[cite: 1] -->
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Piyush-Fr">
-    <img width="70%" src="https://github-readme-stats-fast.vercel.app/api/streak/?username=Piyush-Fr&show_icons=true&theme=dark&hide_border=true&background=000000&ring=94b4a4&fire=94b4a4&currStreakLabel=94b4a4" alt="GitHub Streak"/>
-  </a> <!--[cite: 1] -->
-</p>
+![](https://github-readme-stats.shion.dev/api?username=Piyush-Fr&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Piyush-Fr&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Piyush-Fr&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://komarev.com/ghpvc/?username=Piyush-Fr&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Activity & Views
 <div align="center">
