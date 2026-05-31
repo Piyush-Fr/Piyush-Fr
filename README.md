@@ -24,13 +24,14 @@
   </a> <!--[cite: 1] -->
 </p>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGZydGgybm9jcm5rdDg1azd4ZGJ4YXdyNGN4Ynh6Zjhyb3dsNWQzayZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/x0EASzgqjpvVrYjzvk/giphy.gif" alt="Bio GIF"/>
-</div>
 
 ---
 
 ## Tech Stack
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGZydGgybm9jcm5rdDg1azd4ZGJ4YXdyNGN4Ynh6Zjhyb3dsNWQzayZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/x0EASzgqjpvVrYjzvk/giphy.gif" width="20%" alt="Bio GIF"/>
+</div>
+
 <p align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
   <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/> <!--[cite: 1] -->
@@ -46,6 +47,7 @@
     <img src="https://skillicons.dev/icons?i=python,dart,flutter,firebase,figma,nodejs,git,kotlin" alt="Skill Icons" />
   </a> <!--[cite: 1] -->
 </p>
+
 
 ---
 
