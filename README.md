@@ -59,8 +59,7 @@
 <div align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=31ko4fqh6veo4mqvl5jeo6zvcsiy&count=4" alt="Spotify Recently Played"/> <!--[cite: 1] -->
   <br><br>
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=Piyush-Fr&icon=4&color=10" alt="Visit Count"/>
+
   </a> <!--[cite: 1] -->
 </div>
 
