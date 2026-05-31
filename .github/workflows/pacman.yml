@@ -1,0 +1,20 @@
+name: Pacman Contribution Graph
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs daily at midnight
+  workflow_dispatch: # Allows you to run it manually
+
+jobs:
+  generate-pacman:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    
+    steps:
+      - name: Generate Pacman Contribution Graph
+        uses: maurodesouza/profile-readme-stats@master
+        with:
+          gh_token: ${{ secrets.GITHUB_TOKEN }}
+          user: Piyush-Fr
+          type: pacman
+          output_branch: pacman-output
