@@ -7,9 +7,7 @@
 <div align="center">
   <img src="github-header-banner1.png" width="75%" alt="Header Banner"/>
 </div>
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGZydGgybm9jcm5rdDg1azd4ZGJ4YXdyNGN4Ynh6Zjhyb3dsNWQzayZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/x0EASzgqjpvVrYjzvk/giphy.gif" alt="Bio GIF"/>
-</div>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/piyushthakur01">
@@ -25,6 +23,10 @@
     <img src="https://skillicons.dev/icons?i=github,linkedin,gmail" alt="Social Icons" />
   </a> <!--[cite: 1] -->
 </p>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGZydGgybm9jcm5rdDg1azd4ZGJ4YXdyNGN4Ynh6Zjhyb3dsNWQzayZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/x0EASzgqjpvVrYjzvk/giphy.gif" alt="Bio GIF"/>
+</div>
 
 ---
 
