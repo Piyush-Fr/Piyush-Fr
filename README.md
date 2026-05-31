@@ -58,9 +58,11 @@
 ---
 
 <div align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://komarev.com/ghpvc/?username=Piyush-Fr&icon=0&color=0" alt="Visit Count"/>
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Piyush-Fr/Piyush-Fr/pacman-output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Piyush-Fr/Piyush-Fr/pacman-output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Piyush-Fr/Piyush-Fr/pacman-output/pacman-contribution-graph.svg">
+  </picture>
 </div>
 
 ## Activity & Views
