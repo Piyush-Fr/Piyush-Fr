@@ -74,6 +74,10 @@
 <div align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=31ko4fqh6veo4mqvl5jeo6zvcsiy&count=4" alt="Spotify Recently Played"/> <!--[cite: 1] -->
   <br><br>
+  <div align="center">
+  <img src="cat.gif" width="75%" alt="Header Banner"/>
+</div>
+
 
   </a> <!--[cite: 1] -->
 </div>
