@@ -5,6 +5,10 @@ on:
     - cron: "0 0 * * *" # Runs every day at midnight
   workflow_dispatch: # Allows manual run
 
+# This block is the fix! It gives the action permission to push the image.
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
