@@ -2,11 +2,7 @@
   <img src="banner.gif" width="100%" alt="Header Banner"/>
 </div>
 
-<h1 align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGZydGgybm9jcm5rdDg1azd4ZGJ4YXdyNGN4Ynh6Zjhyb3dsNWQzayZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/KzJkzjggfGN5Py6nkT/giphy.gif" width="40" alt="Waving GIF"/>
-  Hi there!
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGZydGgybm9jcm5rdDg1azd4ZGJ4YXdyNGN4Ynh6Zjhyb3dsNWQzayZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/KzJkzjggfGN5Py6nkT/giphy.gif" width="40" alt="Waving GIF"/>
-</h1>
+
 
 <h3 align="center">
   I'm currently Learning App Development. <br> Interested in ML & Flutter Development. <!--[cite: 1] -->
