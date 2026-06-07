@@ -1,4 +1,4 @@
-<div align="centre">
+<div align="center">
   <img src="banner.gif" width="75%" alt="Header Banner"/>
 </div>
 
