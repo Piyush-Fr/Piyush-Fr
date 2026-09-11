@@ -5,7 +5,7 @@
 
 
 <div align="center">
-  <img src="github-header-banner1.png" width="75%" alt="Header Banner"/>
+  <img src="github-header-banner.png" width="75%" alt="Header Banner"/>
 </div>
 
 
