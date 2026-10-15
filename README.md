@@ -65,7 +65,6 @@
   </picture>
 </div>
 
-## Activity & Views
 <div align="center">
   <img src="cat.gif" width="40%" alt="Cat GIF"/>
 </div>
